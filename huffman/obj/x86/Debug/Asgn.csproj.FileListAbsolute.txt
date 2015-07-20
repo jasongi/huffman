@@ -1,0 +1,12 @@
+D:\Users\Jason\Dropbox\!Uni\!!!SEM1 2014\Design and Analysis of Algorit\Assignment\DAA300Asgn_Base\bin\Debug\Asgn.exe
+D:\Users\Jason\Dropbox\!Uni\!!!SEM1 2014\Design and Analysis of Algorit\Assignment\DAA300Asgn_Base\bin\Debug\Asgn.pdb
+D:\Users\Jason\Dropbox\!Uni\!!!SEM1 2014\Design and Analysis of Algorit\Assignment\DAA300Asgn_Base\obj\x86\Debug\Asgn.csprojResolveAssemblyReference.cache
+D:\Users\Jason\Dropbox\!Uni\!!!SEM1 2014\Design and Analysis of Algorit\Assignment\DAA300Asgn_Base\obj\x86\Debug\MainWindow.baml
+D:\Users\Jason\Dropbox\!Uni\!!!SEM1 2014\Design and Analysis of Algorit\Assignment\DAA300Asgn_Base\obj\x86\Debug\MainWindow.g.cs
+D:\Users\Jason\Dropbox\!Uni\!!!SEM1 2014\Design and Analysis of Algorit\Assignment\DAA300Asgn_Base\obj\x86\Debug\App.g.cs
+D:\Users\Jason\Dropbox\!Uni\!!!SEM1 2014\Design and Analysis of Algorit\Assignment\DAA300Asgn_Base\obj\x86\Debug\Asgn_MarkupCompile.cache
+D:\Users\Jason\Dropbox\!Uni\!!!SEM1 2014\Design and Analysis of Algorit\Assignment\DAA300Asgn_Base\obj\x86\Debug\Asgn.g.resources
+D:\Users\Jason\Dropbox\!Uni\!!!SEM1 2014\Design and Analysis of Algorit\Assignment\DAA300Asgn_Base\obj\x86\Debug\Asgn.Properties.Resources.resources
+D:\Users\Jason\Dropbox\!Uni\!!!SEM1 2014\Design and Analysis of Algorit\Assignment\DAA300Asgn_Base\obj\x86\Debug\Asgn.csproj.GenerateResource.Cache
+D:\Users\Jason\Dropbox\!Uni\!!!SEM1 2014\Design and Analysis of Algorit\Assignment\DAA300Asgn_Base\obj\x86\Debug\Asgn.exe
+D:\Users\Jason\Dropbox\!Uni\!!!SEM1 2014\Design and Analysis of Algorit\Assignment\DAA300Asgn_Base\obj\x86\Debug\Asgn.pdb
